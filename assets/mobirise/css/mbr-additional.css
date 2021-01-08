@@ -1149,58 +1149,149 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s6DlJzc4vq {
-  padding-top: 0px;
-  padding-bottom: 15px;
+.cid-slwKzG5a2r {
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-s6DlJzc4vq .mbr-section-subtitle {
-  color: #232323;
+.cid-slwKzG5a2r .progress {
+  width: 100%;
+}
+.cid-slwKzG5a2r progress {
+  height: 8px;
+}
+.cid-slwKzG5a2r h3 {
+  text-align: center;
   font-weight: 300;
 }
-.cid-s6DlJzc4vq .mbr-content-text {
+.cid-slwKzG5a2r .mbr-section-subtitle {
   color: #767676;
-  margin-bottom: 0;
 }
-.cid-s6DlJzc4vq .card {
-  word-wrap: break-word;
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
+.cid-slwKzG5a2r .progress_value {
+  position: relative;
 }
-@media (min-width: 992px) {
-  .cid-s6DlJzc4vq .cards-block {
-    border-top: 2px solid #efefef;
-  }
+.cid-slwKzG5a2r .progress_elements {
+  margin: 0 auto;
 }
-.cid-s6DlJzc4vq .cards-block .card {
-  border-bottom: 2px solid #efefef;
-  border-radius: 0;
-}
-.cid-s6DlJzc4vq .cards-container {
+.cid-slwKzG5a2r .title-wrap {
   display: flex;
-  -webkit-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-  -webkit-justify-content: center;
-  justify-content: center;
-  word-break: break-word;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
 }
-@media (max-width: 767px) {
-  .cid-s6DlJzc4vq .panel-item {
-    flex-direction: column;
-    align-items: center;
-  }
-  .cid-s6DlJzc4vq .panel-item .card-img {
-    padding: 0;
-    padding-bottom: 1rem;
-  }
+.cid-slwKzG5a2r .progress1 .progressbar-number:before,
+.cid-slwKzG5a2r .progress2 .progressbar-number:before,
+.cid-slwKzG5a2r .progress3 .progressbar-number:before,
+.cid-slwKzG5a2r .progress4 .progressbar-number:before {
+  position: absolute;
+  right: 15px;
+  top: 0;
 }
-.cid-s6DlJzc4vq H4 {
-  text-align: left;
+.cid-slwKzG5a2r progress[value]::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
 }
-.cid-s6DlJzc4vq .img-text {
-  text-align: right;
+.cid-slwKzG5a2r progress::-webkit-progress-value {
+  background: #149dcc;
+}
+.cid-slwKzG5a2r progress[value]::-moz-progress-bar {
+  background: #149dcc;
+}
+.cid-slwKzG5a2r progress::-ms-fill {
+  background: #149dcc;
+}
+.cid-slwKzG5a2r .progress1 .progressbar-number:before {
+  content: '90';
+}
+.cid-slwKzG5a2r .progress2 .progressbar-number:before {
+  content: '75';
+}
+.cid-slwKzG5a2r .progress3 .progressbar-number:before {
+  content: '80';
+}
+.cid-slwKzG5a2r .progress4 .progressbar-number:before {
+  content: '45';
+}
+.cid-slwKzG5a2r .progress-primary {
+  background: rgba(206, 206, 206, 0.4);
+  border: none;
+  outline: none;
+}
+.cid-slwKzG5a2r .progress-primary::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-slwKzG5a2r .progress_value span {
+  padding-left: 30px;
+}
+.cid-slwMn2QqBG {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-slwMn2QqBG .progress {
+  width: 100%;
+}
+.cid-slwMn2QqBG progress {
+  height: 8px;
+}
+.cid-slwMn2QqBG h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-slwMn2QqBG .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-slwMn2QqBG .progress_value {
+  position: relative;
+}
+.cid-slwMn2QqBG .progress_elements {
+  margin: 0 auto;
+}
+.cid-slwMn2QqBG .title-wrap {
+  display: flex;
+  justify-content: space-between;
+  -webkit-justify-content: space-between;
+}
+.cid-slwMn2QqBG .progress1 .progressbar-number:before,
+.cid-slwMn2QqBG .progress2 .progressbar-number:before,
+.cid-slwMn2QqBG .progress3 .progressbar-number:before,
+.cid-slwMn2QqBG .progress4 .progressbar-number:before {
+  position: absolute;
+  right: 15px;
+  top: 0;
+}
+.cid-slwMn2QqBG progress[value]::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-slwMn2QqBG progress::-webkit-progress-value {
+  background: #149dcc;
+}
+.cid-slwMn2QqBG progress[value]::-moz-progress-bar {
+  background: #149dcc;
+}
+.cid-slwMn2QqBG progress::-ms-fill {
+  background: #149dcc;
+}
+.cid-slwMn2QqBG .progress1 .progressbar-number:before {
+  content: '70';
+}
+.cid-slwMn2QqBG .progress2 .progressbar-number:before {
+  content: '20';
+}
+.cid-slwMn2QqBG .progress3 .progressbar-number:before {
+  content: '40';
+}
+.cid-slwMn2QqBG .progress4 .progressbar-number:before {
+  content: '25';
+}
+.cid-slwMn2QqBG .progress-primary {
+  background: rgba(206, 206, 206, 0.4);
+  border: none;
+  outline: none;
+}
+.cid-slwMn2QqBG .progress-primary::-webkit-progress-bar {
+  background: rgba(206, 206, 206, 0.4);
+}
+.cid-slwMn2QqBG .progress_value span {
+  padding-left: 30px;
 }
 .cid-s6DmEjHIUR {
   padding-top: 0px;
