@@ -1102,8 +1102,8 @@ section.lazy-placeholder:after {
 .cid-s6DgaTCqtj {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-color: #149dcc;
-  background: linear-gradient(45deg, #149dcc, #232323);
+  background-color: #82786e;
+  background: linear-gradient(45deg, #82786e, #232323);
 }
 .cid-s6DgaTCqtj .media-container-row {
   flex-direction: row-reverse;
@@ -1134,7 +1134,7 @@ section.lazy-placeholder:after {
 .cid-s6DlpTg7rL .line {
   background-color: #149dcc;
   color: #149dcc;
-  box-align: center;
+  align: center;
   height: 2px;
   margin: 0 auto;
 }
