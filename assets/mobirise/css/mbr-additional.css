@@ -1134,7 +1134,7 @@ section.lazy-placeholder:after {
 .cid-s6DlpTg7rL .line {
   background-color: #149dcc;
   color: #149dcc;
-  align: center;
+  box-align: center;
   height: 2px;
   margin: 0 auto;
 }
